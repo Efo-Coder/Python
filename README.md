@@ -8,4 +8,5 @@ Techstarter Aufgaben
 3. Learn git in the command line
 
 Adding some new lines for testing.
-Hello World!
+Hi
+Hi

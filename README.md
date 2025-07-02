@@ -1,4 +1,4 @@
-# Python
+# <span style="color: blue">Python</span>
 
 **Powered by Techstarter**
 

@@ -1,6 +1,6 @@
 # Python
 
-Powered by Techstarter
+**Powered by Techstarter**
 
 Hausaufgaben, Lernmaterialien, Projekte
 

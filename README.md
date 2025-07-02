@@ -1,8 +1,8 @@
-<span style="color: blue"> # Python</span>
+# Python
 
 **Powered by Techstarter**
 
-Hausaufgaben, Lernmaterialien, Projekte
+<span style="color: blue"> Hausaufgaben, Lernmaterialien, Projekte </span>
 
 ## Goals
 1. Learn Git Terminology

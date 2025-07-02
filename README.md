@@ -2,7 +2,7 @@
 
 **Powered by Techstarter**
 
-<span style="color: blue"> Hausaufgaben, Lernmaterialien, Projekte </span>
+Hausaufgaben, Lernmaterialien, Projekte
 
 ## Goals
 1. Learn Git Terminology
